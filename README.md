@@ -1,5 +1,4 @@
 # Pulication
 
 ## Papers
-* [Next Generation Operating System based on Resource Governance Model](https://github.com/wchswchs/pulication/blob/main/papers/distributed_resource_os_202210272342.pdf)
-[STOC2023 Submitted]
+* [Rhodes: A Next-Generation OS based on Resource Governance Model](https://wchswchs.github.io/pulication/papers/distributed_kernels_os_eng20221205_github.pdf)
